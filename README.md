@@ -404,6 +404,7 @@ A vector database stores data as mathematical vectors, enabling efficient simila
 - [Supabase Vector](https://supabase.com/modules/vector) - Open-source Postgres vector database and AI toolkit built on pgvector
 - [TopK](https://www.topk.io) - AI-native search engine combining vector, keyword, and faceted search
 - [Turbopuffer](https://turbopuffer.com) - Serverless vector and full-text search engine built on object storage for cost-efficient scale
+- [WarpSearch](https://warpsearch.io/) - Serverless vector search engine with geo and full-text search support built for cost efficiency and speed
 - [Typesense](https://typesense.org/) - Open-source typo-tolerant search engine with built-in vector and hybrid search
 - [Vespa](https://vespa.ai) - Open-source search and serving engine combining vector search, keyword search, and ML ranking at scale
 - [Weaviate](https://weaviate.io/) - Weaviate is an open source, AI-native vector database that helps developers create intuitive and reliable AI-powered applications
